@@ -3,6 +3,10 @@ is
 just 
 a 
 test
+Now i am testing the 
+how to
+add another
+commit
 i will
 update
 as time
